@@ -53,3 +53,42 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 - Reproducible Research: the Case of the Human Microbiome
 
   Susan Holmes
+
+
+## Tutorials
+
+- Crowdsourcing: Beyond Label Generation
+
+  Jennifer Wortman Vaughan
+
+- Deep Reinforcement Learning Through Policy Optimization
+
+  Pieter Abbeel · John Schulman
+  
+- Variational Inference: Foundations and Modern Methods
+
+  David Blei · Shakir Mohamed · Rajesh Ranganath
+
+- Theory and Algorithms for Forecasting Non-Stationary Time Series
+
+  Vitaly Kuznetsov · Mehryar Mohri
+
+- Nuts and Bolts of Building Applications using Deep Learning
+
+  Andrew Y Ng
+
+- Natural Language Processing for Computational Social Science
+
+  Cristian Danescu-Niculescu-Mizil · Lillian Lee
+
+- Generative Adversarial Networks
+
+  Ian Goodfellow
+
+- Large-Scale Optimization: Beyond Stochastic Gradient Descent and Convexity
+
+  Suvrit Sra · Francis Bach
+
+- ML Foundations and Methods for Precision Medicine and Healthcare
+
+  Suchi Saria · Peter Schulam
