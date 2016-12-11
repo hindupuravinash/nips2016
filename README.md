@@ -11,7 +11,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
 - [Tutorials](#tutorials)
 
-- [Synopsiums](#synopsiums)
+- [Symposia](#symposia)
 
 - [Workshops](#workshops)
 
@@ -81,7 +81,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
   Cristian Danescu-Niculescu-Mizil · Lillian Lee
 
-- Generative Adversarial Networks
+- [Generative Adversarial Networks](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
 
   Ian Goodfellow
 
