@@ -61,7 +61,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
   Jennifer Wortman Vaughan
 
-- Deep Reinforcement Learning Through Policy Optimization
+- [Deep Reinforcement Learning Through Policy Optimization](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
 
   Pieter Abbeel · John Schulman
   
