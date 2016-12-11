@@ -85,7 +85,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
   Ian Goodfellow
 
-- [Large-Scale Optimization: Beyond Stochastic Gradient Descent and Convexity - Part I](http://www.di.ens.fr/~fbach/fbach_tutorial_vr_nips_2016.pdf) && Part II(http://www.di.ens.fr/~fbach/ssra_tutorial_vr_nips_2016.pdf)
+- [Large-Scale Optimization: Beyond Stochastic Gradient Descent and Convexity - Part I](http://www.di.ens.fr/~fbach/fbach_tutorial_vr_nips_2016.pdf) & [Part II](http://www.di.ens.fr/~fbach/ssra_tutorial_vr_nips_2016.pdf)
 
   Suvrit Sra · Francis Bach
 
