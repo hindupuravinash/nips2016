@@ -17,3 +17,39 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
 - [Posters](#posters)
 
+
+## Invited Talks
+
+- Predictive Learning
+  
+  Yann LeCun
+
+
+- Intelligent Biosphere
+  
+  Drew Purves
+
+
+- Engineering Principles From Stable and Developing Brains
+
+  Saket Navlakha
+
+
+- Machine Learning and Likelihood-Free Inference in Particle Physics
+
+  Kyle Cranmer
+
+
+- Dynamic Legged Robots
+
+  Marc Raibert
+
+
+- Learning About the Brain: Neuroimaging and Beyond
+
+  Irina Rish
+
+
+- Reproducible Research: the Case of the Human Microbiome
+
+  Susan Holmes
