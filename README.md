@@ -65,7 +65,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
   Pieter Abbeel · John Schulman
   
-- Variational Inference: Foundations and Modern Methods
+- [Variational Inference: Foundations and Modern Methods](http://www.cs.columbia.edu/~blei/talks/2016_NIPS_VI_tutorial.pdf)
 
   David Blei · Shakir Mohamed · Rajesh Ranganath
 
