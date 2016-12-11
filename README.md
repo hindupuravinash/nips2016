@@ -20,7 +20,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
 ## Invited Talks
 
-- Predictive Learning
+- [Predictive Learning](https://drive.google.com/open?id=0BxKBnD5y2M8NREZod0tVdW5FLTQ)
   
   Yann LeCun
 
