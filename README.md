@@ -73,7 +73,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
   Vitaly Kuznetsov · Mehryar Mohri
 
-- Nuts and Bolts of Building Applications using Deep Learning
+- [Nuts and Bolts of Building Applications using Deep Learning](http://bit.ly/2g9Y09o)
 
   Andrew Y Ng
 
