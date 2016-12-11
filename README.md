@@ -69,7 +69,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
   David Blei · Shakir Mohamed · Rajesh Ranganath
 
-- Theory and Algorithms for Forecasting Non-Stationary Time Series
+- [Theory and Algorithms for Forecasting Non-Stationary Time Series](http://www.cs.nyu.edu/~mohri/talks/NIPSTutorial2016.pdf)
 
   Vitaly Kuznetsov · Mehryar Mohri
 
