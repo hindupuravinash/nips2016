@@ -35,7 +35,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   Saket Navlakha
 
 
-- Machine Learning and Likelihood-Free Inference in Particle Physics
+- [Machine Learning and Likelihood-Free Inference in Particle Physics](https://figshare.com/articles/NIPS_2016_Keynote_Machine_Learning_Likelihood_Free_Inference_in_Particle_Physics/4291565)
 
   Kyle Cranmer
 
