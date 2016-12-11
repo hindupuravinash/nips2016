@@ -57,7 +57,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
 ## Tutorials
 
-- Crowdsourcing: Beyond Label Generation
+- [Crowdsourcing: Beyond Label Generation](http://www.jennwv.com/projects/crowdtutorial.html)
 
   Jennifer Wortman Vaughan
 
