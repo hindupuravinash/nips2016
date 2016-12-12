@@ -5,7 +5,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 
 Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) and follow me on [Twitter](https://www.twitter.com/hindupuravinash).
 
-## Contents:
+## Contents
 
 - [Invited Talks](#invited-talks)
 
@@ -16,6 +16,8 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 - [Workshops](#workshops)
 
 - [Posters](#posters)
+
+- [WiML](#WiML)
 
 
 ## Invited Talks
@@ -92,3 +94,8 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 - ML Foundations and Methods for Precision Medicine and Healthcare
 
   Suchi Saria · Peter Schulam
+  
+  
+  ## WiML
+
+All talks are on [Periscope](https://www.periscope.tv/w/1MnGnXwZmVMxO)
