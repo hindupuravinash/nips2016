@@ -17,7 +17,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
 - [Posters](#posters)
 
-- [WiML](#WiML)
+- [WiML](#wiml)
 
 
 ## Invited Talks
@@ -98,4 +98,42 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   
   ## WiML
 
-All talks are on [Periscope](https://www.periscope.tv/w/1MnGnXwZmVMxO)
+- [Designing Algorithms for Practical Machine Learning](https://www.periscope.tv/WiMLworkshop/1ypKdAZXVOyGW?)
+  
+  Maya Gupta, Google Research. 
+  
+- [On the Expressive Power of Deep Neural Networks](https://www.periscope.tv/WiMLworkshop/1DXxyoqrMXgGM?)
+  
+  Maithra Raghu, Cornell Univ / Google Brain. 
+
+- [Ancestral Causal Inference](https://www.periscope.tv/WiMLworkshop/1DXxyoqryqWGM?)
+  
+  Sara Magliacane, VU Univ Amsterdam.
+  
+- [Towards a Reasoning Engine for Individualizing Healthcare](https://www.periscope.tv/WiMLworkshop/1vOxweXvPwgGB?) 
+  
+  Suchi Saria, John Hopkins Univ. 
+  
+- [Learning Representations from Time Series Data through Contextualized LSTMs](https://www.periscope.tv/WiMLworkshop/1vOxweXvqjEGB?)  
+  
+  Madalina Fiterau, Stanford Univ. 
+  
+- [Towards Conversational Recommender Systems](https://www.periscope.tv/WiMLworkshop/1vAGRXDbvbkxl?)  
+  
+  Konstantina Christakopoulou, Univ Minnesota. 
+  
+- [Large-Scale Machine Learning through Spectral Methods: Theory & Practice](https://www.periscope.tv/WiMLworkshop/1gqGvRjOeWOGB?)  
+  
+  Anima Anandkumar, Amazon / UC Irvine. 
+  
+- [Raffle and WiML Updates](https://www.periscope.tv/WiMLworkshop/1jMJgAkEVajKL?)  
+  
+  Tamara Broderick, MIT and Sinead Williamson, UT Austin
+  
+- [Using Convolutional Neural Networks to Estimate Population Density from High Resolution Satellite Images](https://www.periscope.tv/WiMLworkshop/1MnGnXwZmVMxO?)  
+  
+  Amy Zhang, Facebook. 
+  
+- [Graphons and Machine Learning: Estimation of Sparse Massive Networks](https://www.periscope.tv/WiMLworkshop/1dRKZRYgQwvKB?)
+  
+  Jennifer Chayes, Microsoft Research. 
