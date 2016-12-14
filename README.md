@@ -191,3 +191,51 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   - Task Generalization via Deep Reinforcement Learning
   
     Junhyuk Oh
+
+- [Neural Abstract Machines & Program Induction](https://uclmr.github.io/nampi/)
+  
+  Matko Bošnjak · Nando de Freitas · Tejas D Kulkarni · Arvind Neelakantan · Scott E Reed · Sebastian Riedel · Tim Rocktäschel
+
+  - What use is Abstraction in Deep Program Induction?
+    
+    Stephen Muggleton
+  
+  - In Search of Strong Generalization: Building Structured Models in the Age of Neural Networks
+    
+    Daniel Tarlow
+  
+  - Learning Program Representation: Symbols to Semantics
+    
+    Charles Sutton
+
+  - From temporal abstraction to programs
+
+    Doina Precup
+
+  - Learning to Compose by Delegation
+  
+    Rob Fergus
+
+  - How Can We Write Large Programs without Thinking?
+    
+    Percy Liang
+
+  - Program Synthesis and Machine Learning
+
+    Martin Vechev
+
+  - Limitations of RNNs: a computational perspective
+
+    Ed Grefenstette
+
+  - Learning how to Learn Learning Algorithms: Recursive Self-Improvement
+
+    Jürgen Schmidhuber
+
+  - Bayesian program learning: Prospects for building more human-like AI systems
+
+    Joshua Tenenbaum & Kevin Ellis
+
+  - Learning When to Halt With Adaptive Computation Time
+
+    Alex Graves
