@@ -137,3 +137,33 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 - [Graphons and Machine Learning: Estimation of Sparse Massive Networks](https://www.periscope.tv/WiMLworkshop/1dRKZRYgQwvKB?)
   
   Jennifer Chayes, Microsoft Research. 
+  
+## Workshops
+
+- [Adversarial Training](https://sites.google.com/site/nips2016adversarial/)
+  
+  David Lopez-Paz · Leon Bottou · Alec Radford
+  
+  - [Introduction to Generative Adversarial Networks](http://www.iangoodfellow.com/slides/2016-12-9-gans.pdf)
+    
+    Ian Goodfellow
+  
+  - [How to train a GAN?](https://github.com/soumith/ganhacks)
+    
+    Soumith Chintala
+  
+  - Learning features to distinguish distributions
+    
+    Arthur Gretton
+  
+  - Training Generative Neural Samplers using Variational Divergence
+    
+    Sebastian Nowozin
+    
+  - Adversarially Learned Inference (ALI) and BiGANs
+    
+    Aaron Courville
+  
+  - [Energy-Based Adversarial Training and Video Prediction](https://drive.google.com/file/d/0BxKBnD5y2M8NbzBUbXRwUDBZOVU/view)
+    
+    Yann LeCun
