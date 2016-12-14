@@ -140,7 +140,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   
 ## Workshops
 
-- [Adversarial Training](https://sites.google.com/site/nips2016adversarial/)
+- ### [Adversarial Training](https://sites.google.com/site/nips2016adversarial/)
   
   David Lopez-Paz · Leon Bottou · Alec Radford
   
@@ -168,7 +168,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
     
     Yann LeCun
     
-- [Deep Reinforcement Learning](https://sites.google.com/site/deeprlnips2016/)
+- ### [Deep Reinforcement Learning](https://sites.google.com/site/deeprlnips2016/)
   
   David Silver · Satinder Singh · Pieter Abbeel · Xi Chen  
   
@@ -192,7 +192,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   
     Junhyuk Oh
 
-- [Neural Abstract Machines & Program Induction](https://uclmr.github.io/nampi/)
+- ### [Neural Abstract Machines & Program Induction](https://uclmr.github.io/nampi/)
   
   Matko Bošnjak · Nando de Freitas · Tejas D Kulkarni · Arvind Neelakantan · Scott E Reed · Sebastian Riedel · Tim Rocktäschel
 
