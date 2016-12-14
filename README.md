@@ -204,7 +204,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
     
     Daniel Tarlow
   
-  - Learning Program Representation: Symbols to Semantics
+  - [Learning Program Representation: Symbols to Semantics](http://homepages.inf.ed.ac.uk/csutton/talks/nampi2016-talk-sutton/)
     
     Charles Sutton
 
