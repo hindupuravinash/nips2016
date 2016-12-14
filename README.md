@@ -167,3 +167,27 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   - [Energy-Based Adversarial Training and Video Prediction](https://drive.google.com/file/d/0BxKBnD5y2M8NbzBUbXRwUDBZOVU/view)
     
     Yann LeCun
+    
+- [Deep Reinforcement Learning](https://sites.google.com/site/deeprlnips2016/)
+  
+  David Silver · Satinder Singh · Pieter Abbeel · Xi Chen  
+  
+  - Learning representations by stochastic gradient descent in cross-validation error
+    
+    Rich Sutton
+    
+  - [The Nuts and Bolts of Deep Reinforcement Learning Research](http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf)
+    
+    John Schulman
+    
+  - Learning to navigate
+  
+    Raia Hadsell
+    
+  - Challenges for human-level learning in Deep RL
+  
+    Josh Tenenbaum
+    
+  - Task Generalization via Deep Reinforcement Learning
+  
+    Junhyuk Oh
