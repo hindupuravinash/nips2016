@@ -196,11 +196,11 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   
   Matko Bošnjak · Nando de Freitas · Tejas D Kulkarni · Arvind Neelakantan · Scott E Reed · Sebastian Riedel · Tim Rocktäschel
 
-  - What use is Abstraction in Deep Program Induction?
+  - [What use is Abstraction in Deep Program Induction?](https://uclmr.github.io/nampi/talk_slides/muggleton-nampi.pdf)
     
     Stephen Muggleton
   
-  - In Search of Strong Generalization: Building Structured Models in the Age of Neural Networks
+  - [In Search of Strong Generalization: Building Structured Models in the Age of Neural Networks](https://uclmr.github.io/nampi/talk_slides/tarlow-nampi.pdf)
     
     Daniel Tarlow
   
@@ -216,7 +216,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   
     Rob Fergus
 
-  - How Can We Write Large Programs without Thinking?
+  - [How Can We Write Large Programs without Thinking?](https://uclmr.github.io/nampi/talk_slides/liang-nampi.pdf)
     
     Percy Liang
 
@@ -224,11 +224,11 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
     Martin Vechev
 
-  - Limitations of RNNs: a computational perspective
+  - [Limitations of RNNs: a computational perspective](https://uclmr.github.io/nampi/talk_slides/grefenstette-nampi.pdf)
 
     Ed Grefenstette
 
-  - Learning how to Learn Learning Algorithms: Recursive Self-Improvement
+  - [Learning how to Learn Learning Algorithms: Recursive Self-Improvement](https://uclmr.github.io/nampi/talk_slides/schmidhuber-nampi.pdf)
 
     Jürgen Schmidhuber
 
