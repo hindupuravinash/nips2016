@@ -239,3 +239,33 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   - Learning When to Halt With Adaptive Computation Time
 
     Alex Graves
+
+- ## [The Future of Gradient-Based Machine Learning Software](https://autodiff-workshop.github.io/)
+
+  (aka *Autodiff Workshop* aka *Automatic Differentiation*)
+
+  Alex Wiltschko · Zach DeVito · Frédéric Bastien · Pascal Lamblin
+  
+  - Automatic Differentiation: History and Headroom
+
+  Barak A. Pearlmutter
+
+  – TensorFlow: Future Directions for Simplifying  Large-Scale Machine Learning
+
+  Jeff Dean
+
+  – No more mini-languages: The power of autodiffing full-featured Python
+
+  David Duvenaud
+
+  - Credit assignment: beyond backpropagation
+
+  Yoshua Bengio
+
+  – Autodiff writes your exponential family inference code
+
+  Matthew Johnson
+
+  – The tension between convenience and performance in automatic differentiation
+
+  Jeffrey M. Siskind
