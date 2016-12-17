@@ -152,11 +152,11 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
     
     Soumith Chintala
   
-  - Learning features to distinguish distributions
+  - [Learning features to distinguish distributions](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/testing_workshop.pdf)
     
     Arthur Gretton
   
-  - Training Generative Neural Samplers using Variational Divergence
+  - [Training Generative Neural Samplers using Variational Divergence](http://www.nowozin.net/sebastian/blog/nips-2016-generative-adversarial-training-workshop-talk.html)
     
     Sebastian Nowozin
     
