@@ -208,7 +208,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
     
     Charles Sutton
 
-  - From temporal abstraction to programs
+  - [From temporal abstraction to programs](https://uclmr.github.io/nampi/talk_slides/precup-nampi.pdf)
 
     Doina Precup
 
@@ -232,7 +232,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
     Jürgen Schmidhuber
 
-  - Bayesian program learning: Prospects for building more human-like AI systems
+  - [Bayesian program learning: Prospects for building more human-like AI systems](https://uclmr.github.io/nampi/talk_slides/tenenbaum-ellis-nampi.pdf)
 
     Joshua Tenenbaum & Kevin Ellis
 
