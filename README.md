@@ -248,24 +248,24 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   
   - Automatic Differentiation: History and Headroom
 
-  Barak A. Pearlmutter
+    Barak A. Pearlmutter
+    
+  - TensorFlow: Future Directions for Simplifying  Large-Scale Machine Learning
 
-  – TensorFlow: Future Directions for Simplifying  Large-Scale Machine Learning
+    Jeff Dean
+  
+  - [No more mini-languages: The power of autodiffing full-featured Python](https://autodiff-workshop.github.io/slides/DavidDuvenaud.pdf)
 
-  Jeff Dean
+    David Duvenaud
+    
+  - [Credit assignment: beyond backpropagation](http://www.iro.umontreal.ca/~bengioy/talks/NIPSAutoDiffWorkshop10dec2016.key.pdf)
 
-  – No more mini-languages: The power of autodiffing full-featured Python
+    Yoshua Bengio
+    
+  - [Autodiff writes your exponential family inference code](https://autodiff-workshop.github.io/slides/MatthewJohnson.pdf)
 
-  David Duvenaud
+    Matthew Johnson
+    
+  - [The tension between convenience and performance in automatic differentiation](https://autodiff-workshop.github.io/slides/JeffreyMarkSiskind.pdf)
 
-  - Credit assignment: beyond backpropagation
-
-  Yoshua Bengio
-
-  – Autodiff writes your exponential family inference code
-
-  Matthew Johnson
-
-  – The tension between convenience and performance in automatic differentiation
-
-  Jeffrey M. Siskind
+    Jeffrey M. Siskind
