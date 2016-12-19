@@ -250,7 +250,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
     Barak A. Pearlmutter
     
-  - TensorFlow: Future Directions for Simplifying  Large-Scale Machine Learning
+  - [TensorFlow: Future Directions for Simplifying  Large-Scale Machine Learning](https://autodiff-workshop.github.io/slides/JeffDean.pdf)
 
     Jeff Dean
   
