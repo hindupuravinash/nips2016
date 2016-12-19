@@ -246,7 +246,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
   Alex Wiltschko · Zach DeVito · Frédéric Bastien · Pascal Lamblin
   
-  - Automatic Differentiation: History and Headroom
+  - [Automatic Differentiation: History and Headroom](https://autodiff-workshop.github.io/slides/BarakPearlmutter.pdf)
 
     Barak A. Pearlmutter
     
