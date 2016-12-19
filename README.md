@@ -240,10 +240,10 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
     Alex Graves
 
-- ## [The Future of Gradient-Based Machine Learning Software](https://autodiff-workshop.github.io/)
-
+- ### [The Future of Gradient-Based Machine Learning Software](https://autodiff-workshop.github.io/)
+  
   (aka *Autodiff Workshop* aka *Automatic Differentiation*)
-
+  
   Alex Wiltschko · Zach DeVito · Frédéric Bastien · Pascal Lamblin
   
   - [Automatic Differentiation: History and Headroom](https://autodiff-workshop.github.io/slides/BarakPearlmutter.pdf)
@@ -269,3 +269,58 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   - [The tension between convenience and performance in automatic differentiation](https://autodiff-workshop.github.io/slides/JeffreyMarkSiskind.pdf)
 
     Jeffrey M. Siskind
+    
+- ### [Reliable Machine Learning in the Wild](https://sites.google.com/site/wildml2016nips/)
+  Dylan Hadfield-Menell · Adrian Weller · David Duvenaud · Jacob Steinhardt · Percy S Liang
+  
+  - Opening Remarks
+  
+    Jacob Steinhardt
+  
+  - Rules for Reliable Machine Learning
+    
+    Martin A Zinkevich
+  
+  - What's your ML Test Score? A rubric for ML production systems
+
+    Eric Breck, Shanqing Cai, Eric Nielsen, Michael Salib, D. Sculley
+
+  - Robust Learning and Inference
+
+    Yishay Mansour
+  
+  - Automated versus do-it-yourself methods for causal inference: Lessons learned from a data analysis competition
+    
+    Jennifer Hill
+  
+  - Robust Covariate Shift Classification Using Multiple Feature Views
+
+    Anqi Liu, Hong Wang Brian D. Ziebart
+
+  - Learning from Untrusted Data.
+    
+    Moses Charikar, Jacob Steinhardt, Gregory Valiant Doug Tygar
+
+  - Adversarial Examples and Adversarial Training
+    
+    Ian Goodfellow
+  
+  - Summoning Demons: The Pursuit of Exploitable Bugs in Machine Learning
+    
+    Rock Stevens, Octavian Suciu, Andrew Ruef, Sanghyun Hong, Michael Hicks, Tudor Dumitras
+
+  - Learning Reliable Objectives
+    
+    Anca Dragan
+
+  - Building and Validating the AI behind the Next-Generation Aircraft Collision Avoidance System
+
+    Mykel J Kochenderfer
+  
+  - Online Prediction with Selfish Experts
+    
+    Okke Schrijvers
+  
+  - TensorFlow Debugger: Debugging Dataflow Graphs for Machine Learning
+    
+    Shanqing Cai, Eric Breck, Eric Nielsen, Michael Salib, D. Sculley 
