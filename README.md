@@ -273,15 +273,15 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 - ### [Reliable Machine Learning in the Wild](https://sites.google.com/site/wildml2016nips/)
   Dylan Hadfield-Menell · Adrian Weller · David Duvenaud · Jacob Steinhardt · Percy S Liang
   
-  - Opening Remarks
+  - [Opening Remarks](https://0586f9b3-a-62cb3a1a-s-sites.googlegroups.com/site/wildml2016nips/OpeningRemarks.pdf)
   
     Jacob Steinhardt
   
-  - Rules for Reliable Machine Learning
+  - [Rules for Reliable Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
     
     Martin A Zinkevich
   
-  - What's your ML Test Score? A rubric for ML production systems
+  - [What's your ML Test Score? A rubric for ML production systems](https://0586f9b3-a-62cb3a1a-s-sites.googlegroups.com/site/wildml2016nips/SculleySlides1.pdf)
 
     Eric Breck, Shanqing Cai, Eric Nielsen, Michael Salib, D. Sculley
 
@@ -297,15 +297,15 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
     Anqi Liu, Hong Wang Brian D. Ziebart
 
-  - Learning from Untrusted Data.
+  - [Learning from Untrusted Data](https://0586f9b3-a-62cb3a1a-s-sites.googlegroups.com/site/wildml2016nips/SteinhardtSlides.pdf)
     
     Moses Charikar, Jacob Steinhardt, Gregory Valiant Doug Tygar
 
-  - Adversarial Examples and Adversarial Training
+  - [Adversarial Examples and Adversarial Training](https://0586f9b3-a-62cb3a1a-s-sites.googlegroups.com/site/wildml2016nips/GoodfellowSlides.pdf)
     
     Ian Goodfellow
   
-  - Summoning Demons: The Pursuit of Exploitable Bugs in Machine Learning
+  - [Summoning Demons: The Pursuit of Exploitable Bugs in Machine Learning](https://0586f9b3-a-62cb3a1a-s-sites.googlegroups.com/site/wildml2016nips/SuciuSlides.pdf)
     
     Rock Stevens, Octavian Suciu, Andrew Ruef, Sanghyun Hong, Michael Hicks, Tudor Dumitras
 
@@ -321,6 +321,6 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
     
     Okke Schrijvers
   
-  - TensorFlow Debugger: Debugging Dataflow Graphs for Machine Learning
+  - [TensorFlow Debugger: Debugging Dataflow Graphs for Machine Learning](https://0586f9b3-a-62cb3a1a-s-sites.googlegroups.com/site/wildml2016nips/SculleySlides2.pdf)
     
     Shanqing Cai, Eric Breck, Eric Nielsen, Michael Salib, D. Sculley 
