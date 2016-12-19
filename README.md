@@ -323,4 +323,76 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   
   - [TensorFlow Debugger: Debugging Dataflow Graphs for Machine Learning](https://0586f9b3-a-62cb3a1a-s-sites.googlegroups.com/site/wildml2016nips/SculleySlides2.pdf)
     
-    Shanqing Cai, Eric Breck, Eric Nielsen, Michael Salib, D. Sculley 
+    Shanqing Cai, Eric Breck, Eric Nielsen, Michael Salib, D. Sculley
+    
+- ### [Machine Intelligence @ NIPS](https://mainatnips.github.io/)
+  
+  Tomas Mikolov · Baroni Marco · Armand Joulin · Germán Kruszewski · Angeliki Lazaridou · Klemen Simonic
+  
+  - A roadmap for communication-based AI
+    
+    Marco Baroni
+  
+  - The commAI-env environment for communication-based AI
+    
+    Allan Jabri
+  
+  - Human-like dialogue: Key challenges for AI
+    
+    Raquel Fernandez
+  
+  - Learning incrementally to become a general problem solver
+    
+    Jürgen Schmidhuber
+
+  - From particular to general: A preliminary case study of transfer learning in reading comprehension
+    
+    Rudolf Kadlec, Ondrej Bajgar, Jan Kleindienst 
+
+  - Consolidating the search for general AI
+    
+    Marek Rosa, Jan Feyereisl
+
+  - Gaining insights from game theory about the emergence of communication
+    
+    Alex Peysakhovich
+
+  - Socially constructed machine intelligence
+    
+    Tomo Lazovich, Matthew C. Graham, Troy M. Lau, Joshua C. Poore
+
+  - Virtual embodiment: A scalable long-term strategy for Artificial Intelligence research
+    
+    Douwe Kiela, Luana Bulat, Anita L. Vero, Stephen Clark
+
+  - Building machines that learn and think like people
+    
+    Brenden Lake
+  
+  - Malmo: Flexible and scalable evaluation in Minecraft
+    
+    Fernando Diaz 
+  
+  - A paradigm for situated and goal-driven language learning
+  
+    Jon Gauthier, Igor Mordatch 
+
+  - In praise of fake AI
+  
+    Arthur Szlam 
+
+  - An evolutionary perspective on machine intelligence
+  
+    Emmanuel Dupoux 
+
+  - Are video games the perfect environments for developing artificial general intelligence? Which kind of general intelligence?
+    
+    Julian Togelius
+  
+  - Minimally naturalistic Artificial Intelligence
+    
+    Steven Hansen 
+  
+  - Remarks on the CommAI-env
+    
+    Gemma Boleda 
