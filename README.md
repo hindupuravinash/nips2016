@@ -329,27 +329,27 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   
   Tomas Mikolov · Baroni Marco · Armand Joulin · Germán Kruszewski · Angeliki Lazaridou · Klemen Simonic
   
-  - A roadmap for communication-based AI
+  - [A roadmap for communication-based AI](https://mainatnips.github.io/mainatnips.github.io/slides/baroni-nursing-turing.pdf)
     
     Marco Baroni
   
-  - The commAI-env environment for communication-based AI
+  - [The commAI-env environment for communication-based AI](https://mainatnips.github.io/mainatnips.github.io/slides/allan-commai-env-workshop-talk.pdf)
     
     Allan Jabri
   
-  - Human-like dialogue: Key challenges for AI
+  - [Human-like dialogue: Key challenges for AI](https://mainatnips.github.io/mainatnips.github.io/slides/raquel-main-nips2016.pdf)
     
     Raquel Fernandez
   
-  - Learning incrementally to become a general problem solver
+  - [Learning incrementally to become a general problem solver](https://mainatnips.github.io/mainatnips.github.io/slides/schmidhuber-rsi2016white.pdf)
     
     Jürgen Schmidhuber
 
-  - From particular to general: A preliminary case study of transfer learning in reading comprehension
+  - [From particular to general: A preliminary case study of transfer learning in reading comprehension](https://mainatnips.github.io/mainatnips.github.io/slides/Kadlec_Semisupervised_MAINatNIPS_v3_clean.pdf)
     
     Rudolf Kadlec, Ondrej Bajgar, Jan Kleindienst 
 
-  - Consolidating the search for general AI
+  - [Consolidating the search for general AI](https://mainatnips.github.io/mainatnips.github.io/slides/Rosa%20and%20Feyereisl%20-%20Machine%20Intelligence%20Workshop%20@%20NIPS%202016.pdf)
     
     Marek Rosa, Jan Feyereisl
 
@@ -361,7 +361,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
     
     Tomo Lazovich, Matthew C. Graham, Troy M. Lau, Joshua C. Poore
 
-  - Virtual embodiment: A scalable long-term strategy for Artificial Intelligence research
+  - [Virtual embodiment: A scalable long-term strategy for Artificial Intelligence research](https://mainatnips.github.io/mainatnips.github.io/slides/DouwePresentation.pdf)
     
     Douwe Kiela, Luana Bulat, Anita L. Vero, Stephen Clark
 
@@ -385,14 +385,14 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   
     Emmanuel Dupoux 
 
-  - Are video games the perfect environments for developing artificial general intelligence? Which kind of general intelligence?
+  - [Are video games the perfect environments for developing artificial general intelligence? Which kind of general intelligence?](https://mainatnips.github.io/mainatnips.github.io/slides/togelius-2016-NIPSWS-Games4WhichAI.pdf)
     
     Julian Togelius
   
-  - Minimally naturalistic Artificial Intelligence
+  - [Minimally naturalistic Artificial Intelligence](https://mainatnips.github.io/mainatnips.github.io/slides/HansenMinimally%20Naturalistic%20AI.pdf)
     
     Steven Hansen 
   
-  - Remarks on the CommAI-env
+  - [Remarks on the CommAI-env](https://mainatnips.github.io/mainatnips.github.io/slides/gboleda-slides-main-at-nips.pdf)
     
     Gemma Boleda 
