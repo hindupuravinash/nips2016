@@ -79,7 +79,7 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
 
   Andrew Y Ng
 
-- Natural Language Processing for Computational Social Science
+- [Natural Language Processing for Computational Social Science](http://www.cs.cornell.edu/~cristian/index_files/NIPS_NLP_for_CSS_tutorial.pdf)
 
   Cristian Danescu-Niculescu-Mizil · Lillian Lee
 
