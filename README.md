@@ -180,15 +180,19 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
     
     John Schulman
     
-  - Learning to navigate
+  - [Learning to navigate](https://drive.google.com/file/d/0B1PUpk7kwWu-dGFGaHU5dWJraVNHWWtZcGJXclUwQThaVHU0/view)
   
     Raia Hadsell
+  
+  - [Large-Scale Self-Supervised Robot Learning](https://drive.google.com/file/d/0B1PUpk7kwWu-SGhJTTJJOGt2bkpSUjZ3TGpKeFFSU0R0ZXRr/view)
+  
+    Chelsea Finn
     
   - Challenges for human-level learning in Deep RL
   
     Josh Tenenbaum
     
-  - Task Generalization via Deep Reinforcement Learning
+  - [Task Generalization via Deep Reinforcement Learning](https://drive.google.com/file/d/0B1PUpk7kwWu-dmM3NHc1c0hWV2N4YnRRSk5MUU9kODJpcGs4/view)
   
     Junhyuk Oh
 
