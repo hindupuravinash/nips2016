@@ -400,3 +400,59 @@ Check out my [AI newsletter](https://www.getrevue.co/profile/hindupuravinash) an
   - [Remarks on the CommAI-env](https://mainatnips.github.io/mainatnips.github.io/slides/gboleda-slides-main-at-nips.pdf)
     
     Gemma Boleda 
+
+- ### [Machine Learning for Education](https://dsp.rice.edu/ml4ed_nips2016)
+
+  Richard Baraniuk · Jiquan Ngiam · Christoph Studer · Phillip Grimaldi · Andrew Lan
+  
+  - [BLAh: Boolean Logic Analysis for Graded Student Response Data](https://dsp.rice.edu/sites/dsp.rice.edu/files/Lan%20-%2016NIPS_talk_BLAh.pptx)
+    
+    Phil Grimaldi, OpenStax/Rice University
+  
+  - [Eliminating testing through continuous assessment](https://dsp.rice.edu/sites/dsp.rice.edu/files/Ritter%20-%20assessment%20nips.pptx)
+  
+    Steve Ritter, Carnegie Learning
+  
+  - [Gradescope -- AI for Grading](https://dsp.rice.edu/sites/dsp.rice.edu/files/gradescope_nips_ed_workshop_2016.pdf)
+    
+    Pieter Abbeel, UC Berkeley
+
+  - [A Machine Learning Approach to Personalizing Education: Improving Individual Learning through Tracking and Course Recommendation](https://dsp.rice.edu/sites/dsp.rice.edu/files/Mihaela.pdf)
+  
+    Mihaela van der Schaar, UCLA
+
+  - Machine Learning Challenges and Opportunities in MOOCs
+  
+    Zhenghao Chen, Coursera
+    
+  - [Understanding Engagement and Sentiment in MOOCs using Probabilistic Soft Logic (PSL)](https://dsp.rice.edu/sites/dsp.rice.edu/files/Getoor-NIPS-ED+ML-WS-Dec10.pdf)
+    
+    Lise Getoor, UC Santa Cruz
+
+  - [Machine Learning Approaches for Learning Analytics: Collaborative Filtering Or Regression With Experts?](https://dsp.rice.edu/sites/dsp.rice.edu/files/Kangwook_ML_for_LA.pdf)
+  
+    Kangwook Lee, KAIST
+    
+  - [Using Computational Methods to Improve Feedback for Learners](https://dsp.rice.edu/sites/dsp.rice.edu/files/MLForFeedback.pdf)
+  
+    Anna Rafferty, Carleton College
+
+  - [Estimating student proficiency: Deep learning is not the panacea](https://dsp.rice.edu/sites/dsp.rice.edu/files/Mozer_NIPS2016_MLED.pptx)
+    
+    Michael Mozer, CU Boulder
+
+  - [Modeling skill interactions with multilayer item response functions](https://dsp.rice.edu/sites/dsp.rice.edu/files/Karklin_NIPS2016-ML4Ed_Karklin.pdf)
+    
+    Yan Karklin, Knewton
+    
+  - [On Crowdlearning: How do People Learn in the Wild?](https://dsp.rice.edu/sites/dsp.rice.edu/files/Utkarsh.pdf)
+    
+    Utkarsh Upadhyay, MPI-SWS
+
+  - [Beyond Assessment Scores: How Behavior Can Give Insight into Knowledge Transfer](https://dsp.rice.edu/sites/dsp.rice.edu/files/Brinton_16-12-10%20NIPS_Public.pptx)
+  
+    Christopher Brinton, Zoomi
+
+  - Using Old Data To Yield Better Personalized Tutoring Systems
+  
+    Emma Brunskill, CMU
